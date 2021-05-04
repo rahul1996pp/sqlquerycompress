@@ -5,6 +5,7 @@
 - It takes text files only.
 - we need to create text file with sql insert statements.
 - make sure you must run the script in the same text files only.
+- Run sqlcom.exe directly without python installed.
 
 **Example :-**
 1.  `insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (1, 'Teodor', 'Braz', 'tbraz0@cloudflare.com', 'Genderqueer', '64.30.47.28');`
